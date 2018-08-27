@@ -1,0 +1,4 @@
+C/C++
+Select Line Status Bar
+Settings Sync
+vscode-icons
